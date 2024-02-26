@@ -2,12 +2,12 @@
     "name": "Blastverse Token",
     "website": "https://www.trueusd.com/",
     "description": "Blastverse ownership token.",
-    "explorer": "https://testnet.blastscan.io/token/0x1ee464f5e26CE1AFcC5a7f450fb7809b5EcBf28f",
+    "explorer": "https://testnet.blastscan.io/token/0xb2bC88a19427564E3d882C64650A4273578A4894",
     "type": "ERC20",
     "symbol": "BSV",
     "decimals": 18,
     "status": "active",
-    "id": "0x1ee464f5e26CE1AFcC5a7f450fb7809b5EcBf28f",
+    "id": "0xb2bC88a19427564E3d882C64650A4273578A4894",
     "tags": [
         "crypto"
     ],
