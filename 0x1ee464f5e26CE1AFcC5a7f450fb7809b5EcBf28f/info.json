@@ -1,0 +1,36 @@
+{
+    "name": "Blastverse Token",
+    "website": "https://www.trueusd.com/",
+    "description": "Blastverse ownership token.",
+    "explorer": "https://testnet.blastscan.io/token/0x1ee464f5e26CE1AFcC5a7f450fb7809b5EcBf28f",
+    "type": "ERC20",
+    "symbol": "BSV",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1ee464f5e26CE1AFcC5a7f450fb7809b5EcBf28f",
+    "tags": [
+        "crypto"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/trusttoken/TrueUSD"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/tusd_official"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/TUSDofficial_EN"
+        },
+        {
+            "name": "medium",
+            "url": "https://trueusd.medium.com/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/true-usd/"
+        }
+    ]
+}
